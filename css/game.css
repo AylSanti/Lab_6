@@ -1,0 +1,12 @@
+.background    { background: #091833;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;         }
+.acid          { background: 	#7fe706	; }
+.wall          { background: white;   }
+.floater       { background: #fff400; }
+.power         {background: 	#f93737;   }
+
+.game {
+  position: relative;
+}
